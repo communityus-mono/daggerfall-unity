@@ -1,3 +1,6 @@
+# Version:
+0.10.17 from this commit to here: https://github.com/communityus-mono/daggerfall-unity/blob/546a8b5038208758d2d3e3316335368f8ab4dc15/Assets/Scripts/VersionInfo.cs
+
 # What is Daggerfall Unity?
 
 > Daggerfall Unity is an open source recreation of Daggerfall in the Unity engine created by [Daggerfall Workshop](http://www.dfworkshop.net).
