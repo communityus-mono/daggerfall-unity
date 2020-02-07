@@ -52,6 +52,7 @@ namespace DaggerfallWorkshop.Game.Utility
         public static int GetCurrentSceneIndex()
         {
             int index = SceneManager.GetActiveScene().buildIndex;
+            Debug.Log("scene index = " + index);
             DaggerfallUnity.LogMessage("scene index = " + index, false);
             return index;
         }

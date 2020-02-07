@@ -92,9 +92,12 @@ namespace DaggerfallWorkshop
                 meshFilter = GetComponent<MeshFilter>();
                 meshRenderer = GetComponent<MeshRenderer>();
 
+                //DAGUnity
                 // Hide editor marker from live scene
-                bool showEditorFlats = GameManager.Instance.StartGameBehaviour.ShowEditorFlats;
-                if (summary.FlatType == FlatTypes.Editor && meshRenderer && !showEditorFlats)
+                //if(GameManager.Instance.StartGameBehaviour. != GetComponent<Game.Utility.StartGameBehaviour>())
+                //Debug.LogError("equals");
+                //bool showEditorFlats = GameManager.Instance.StartGameBehaviour.ShowEditorFlats;
+                if (summary.FlatType == FlatTypes.Editor && meshRenderer /*&& !showEditorFlats*/)
                 {
                     // Just disable mesh renderer as actual object can be part of action chain
                     // Example is the treasury in Daggerfall castle, some action records flow through the quest item marker
@@ -350,6 +353,57 @@ namespace DaggerfallWorkshop
                 Collider col = gameObject.AddComponent<BoxCollider>();
                 col.isTrigger = true;
             }
+
+            return material;
+        }
+
+        /// <summary>
+        /// Sets billboard material with a custom texture.
+        /// </summary>
+        /// <param name="texture">Texture2D to set on material.</param>
+        /// <param name="size">Size of billboard quad in normal units (not Daggerfall units).</param>
+        /// <returns>Material.</returns>
+        public Material SetMaterial(Texture2D texture, Vector2 size)
+        {
+            // Get DaggerfallUnity
+            DaggerfallUnity dfUnity = DaggerfallUnity.Instance;
+            if (!dfUnity.IsReady)
+                return null;
+
+            // Get references
+            meshRenderer = GetComponent<MeshRenderer>();
+
+            // Create material
+            Material material = MaterialReader.CreateStandardMaterial(MaterialReader.CustomBlendMode.Cutout);
+            material.mainTexture = texture;
+
+            // Create mesh
+            Mesh mesh = dfUnity.MeshReader.GetSimpleBillboardMesh(size);
+
+            // Set summary
+            summary.FlatType = FlatTypes.Decoration;
+            summary.Size = size;
+
+            // Assign mesh and material
+            MeshFilter meshFilter = GetComponent<MeshFilter>();
+            Mesh oldMesh = meshFilter.sharedMesh;
+            if (mesh)
+            {
+                meshFilter.sharedMesh = mesh;
+                meshRenderer.sharedMaterial = material;
+            }
+            if (oldMesh)
+            {
+                // The old mesh is no longer required
+#if UNITY_EDITOR
+                DestroyImmediate(oldMesh);
+#else
+                Destroy(oldMesh);
+#endif
+            }
+
+            // Standalone billboards never cast shadows
+            meshRenderer.shadowCastingMode = ShadowCastingMode.Off;
 
             return material;
         }

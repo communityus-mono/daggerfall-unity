@@ -1,4 +1,4 @@
-﻿// Project:         Daggerfall Tools For Unity
+// Project:         Daggerfall Tools For Unity
 // Copyright:       Copyright (C) 2009-2019 Daggerfall Workshop
 // Web Site:        http://www.dfworkshop.net
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
@@ -29,8 +29,9 @@ namespace DaggerfallConnect.Utility
         const string vidSearchPattern = "*.VID";
         const string vidAlternateTestFile = "ANIM0011.VID";
 
-        const int minTextureCount = 472;
-        const int minVidCount = 17;
+        //DAGUnity
+        const int minTextureCount = 0;
+        const int minVidCount = 0;
 
         #endregion
 

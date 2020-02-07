@@ -1,4 +1,4 @@
-﻿// Project:         Daggerfall Tools For Unity
+// Project:         Daggerfall Tools For Unity
 // Copyright:       Copyright (C) 2009-2019 Daggerfall Workshop
 // Web Site:        http://www.dfworkshop.net
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
@@ -114,6 +114,8 @@ namespace DaggerfallConnect.Arena2
         /// <returns>True if successful, otherwise false.</returns>
         public override bool Load(string filePath, FileUsage usage, bool readOnly)
         {
+
+            //OMW UnityEngine.Debug.LogWarning(filePath);
             // Exit if this file already loaded
             if (managedFile.FilePath == filePath)
                 return true;

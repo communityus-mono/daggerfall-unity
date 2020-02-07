@@ -1,4 +1,4 @@
-﻿// Project:         Daggerfall Tools For Unity
+// Project:         Daggerfall Tools For Unity
 // Copyright:       Copyright (C) 2009-2019 Daggerfall Workshop
 // Web Site:        http://www.dfworkshop.net
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
@@ -206,6 +206,8 @@ namespace DaggerfallConnect.Utility
         /// <returns>True if successful, otherwise false.</returns>
         public bool Load(string filePath, FileUsage usage = FileUsage.UseMemory, bool readOnly = true)
         {
+
+            Debug.LogError(filePath);
             // Determine file access settings
             FileAccess fileAccess;
             FileShare fileShare;

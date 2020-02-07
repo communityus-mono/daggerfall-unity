@@ -18,6 +18,7 @@ using DaggerfallConnect.Utility;
 using DaggerfallConnect.Save;
 using DaggerfallWorkshop.Utility;
 using DaggerfallWorkshop.Utility.AssetInjection;
+using DaggerfallWorkshop.Game.Utility;
 using DaggerfallWorkshop.Game.UserInterface;
 using DaggerfallWorkshop.Game.UserInterfaceWindows;
 using DaggerfallWorkshop.Game.MagicAndEffects;
@@ -124,6 +125,8 @@ namespace DaggerfallWorkshop.Game
 
         public Material PixelFontMaterial { get { return pixelFontMaterial; } set { pixelFontMaterial = value; } }
         public Material SDFFontMaterial { get { return sdfFontMaterial; } set { sdfFontMaterial = value; } }
+
+        PaperDollRenderer paperDollRenderer;
 
         public UserInterfaceRenderTarget CustomRenderTarget
         {
@@ -248,6 +251,11 @@ namespace DaggerfallWorkshop.Game
             get { return Path.Combine(Application.streamingAssetsPath, fontsFolderName); }
         }
 
+        public PaperDollRenderer PaperDollRenderer
+        {
+            get { return paperDollRenderer; }
+        }
+
         public enum PopupStyle
         {
             Parchment,
@@ -298,6 +306,12 @@ namespace DaggerfallWorkshop.Game
             dfExteriorAutomapWindow = new DaggerfallExteriorAutomapWindow(uiManager);
 
             Questing.Actions.GivePc.OnOfferPending += GivePc_OnOfferPending;
+
+            // TEST: 4x scale paper doll renderer
+            // This will be used to display visual paper doll during testing
+            // Old paper doll still refreshed and used for mouse-over picking
+            // Will switch back to old method if any significant issues found with new paper doll rendering
+            paperDollRenderer = new PaperDollRenderer(4);
 
             SetupSingleton();
         }
@@ -356,7 +370,7 @@ namespace DaggerfallWorkshop.Game
             // Update top window
             if (uiManager.TopWindow != null)
             {
-                uiManager.TopWindow.ParentPanel.CustomMousePosition = customMousePosition;
+                //uiManager.TopWindow.ParentPanel.CustomMousePosition = customMousePosition;
                 uiManager.TopWindow.Update();
             }
 
@@ -463,6 +477,9 @@ namespace DaggerfallWorkshop.Game
                     break;
                 case DaggerfallUIMessages.dfuiOpenSpellMakerWindow:
                     uiManager.PushWindow(dfSpellMakerWindow);
+                    break;
+                case DaggerfallUIMessages.dfuiOpenItemMakerWindow:
+                    uiManager.PushWindow(dfItemMakerWindow);
                     break;
                 case DaggerfallUIMessages.dfuiOpenTravelMapWindow:
                     if (GameManager.Instance.IsPlayerInside)
@@ -710,6 +727,8 @@ namespace DaggerfallWorkshop.Game
 
         void LoadDaggerfallParchmentTextures()
         {
+            //OMW Debug.LogError(parchmentBorderRCIFile);
+
             if (daggerfallParchmentTextures == null || daggerfallParchmentTextures.Length == 0)
             {
                 CifRciFile cif = new CifRciFile(Path.Combine(dfUnity.Arena2Path, parchmentBorderRCIFile), FileUsage.UseMemory, true);
@@ -994,10 +1013,13 @@ namespace DaggerfallWorkshop.Game
             if (!dfUnity.IsReady || !dfUnity.IsPathValidated)
                 return null;
 
+            Debug.LogWarning(name);
+
             ImgFile imgFile = new ImgFile(Path.Combine(dfUnity.Arena2Path, name), FileUsage.UseMemory, true);
             Texture2D texture;
             if (!TextureReplacement.TryImportImage(name, readOnly, out texture))
             {
+                //OMW Debug.LogError(name + " " + imgFile.PaletteName + " " + imgFile.FileName);
                 imgFile.LoadPalette(Path.Combine(dfUnity.Arena2Path, imgFile.PaletteName));
                 texture = GetTextureFromImg(imgFile, format, readOnly);
             }
@@ -1021,6 +1043,8 @@ namespace DaggerfallWorkshop.Game
 
         public static DFBitmap GetImgBitmap(string name)
         {
+
+            Debug.LogWarning(name);
             DaggerfallUnity dfUnity = DaggerfallUnity.Instance;
             if (!dfUnity.IsReady)
                 return null;
