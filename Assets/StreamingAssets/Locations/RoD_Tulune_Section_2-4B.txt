@@ -1,0 +1,492 @@
+<locations>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>11378773</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>86</worldX>
+		<worldY>131</worldY>
+		<terrainX>25</terrainX>
+		<terrainY>21</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>29599039</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>87</worldX>
+		<worldY>131</worldY>
+		<terrainX>2</terrainX>
+		<terrainY>79</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>99385243</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>88</worldX>
+		<worldY>131</worldY>
+		<terrainX>2</terrainX>
+		<terrainY>29</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>41186391</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>89</worldX>
+		<worldY>131</worldY>
+		<terrainX>35</terrainX>
+		<terrainY>33</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>48601058</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>66</worldX>
+		<worldY>132</worldY>
+		<terrainX>67</terrainX>
+		<terrainY>29</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>20695084</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>67</worldX>
+		<worldY>132</worldY>
+		<terrainX>83</terrainX>
+		<terrainY>78</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>28202191</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>68</worldX>
+		<worldY>132</worldY>
+		<terrainX>72</terrainX>
+		<terrainY>38</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>15451516</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>69</worldX>
+		<worldY>132</worldY>
+		<terrainX>2</terrainX>
+		<terrainY>11</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>85929395</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>70</worldX>
+		<worldY>132</worldY>
+		<terrainX>58</terrainX>
+		<terrainY>10</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>94554984</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>71</worldX>
+		<worldY>132</worldY>
+		<terrainX>69</terrainX>
+		<terrainY>39</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>94577471</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>72</worldX>
+		<worldY>132</worldY>
+		<terrainX>35</terrainX>
+		<terrainY>16</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>71923066</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>73</worldX>
+		<worldY>132</worldY>
+		<terrainX>55</terrainX>
+		<terrainY>30</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>69032210</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>74</worldX>
+		<worldY>132</worldY>
+		<terrainX>74</terrainX>
+		<terrainY>31</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>33005286</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>75</worldX>
+		<worldY>132</worldY>
+		<terrainX>31</terrainX>
+		<terrainY>12</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>60233393</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>76</worldX>
+		<worldY>132</worldY>
+		<terrainX>17</terrainX>
+		<terrainY>61</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>3788474</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>77</worldX>
+		<worldY>132</worldY>
+		<terrainX>43</terrainX>
+		<terrainY>90</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>64329853</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>78</worldX>
+		<worldY>132</worldY>
+		<terrainX>21</terrainX>
+		<terrainY>6</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>17945624</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>80</worldX>
+		<worldY>132</worldY>
+		<terrainX>49</terrainX>
+		<terrainY>29</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>31657298</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>81</worldX>
+		<worldY>132</worldY>
+		<terrainX>16</terrainX>
+		<terrainY>57</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>21240562</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>82</worldX>
+		<worldY>132</worldY>
+		<terrainX>32</terrainX>
+		<terrainY>7</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>32668886</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>83</worldX>
+		<worldY>132</worldY>
+		<terrainX>36</terrainX>
+		<terrainY>20</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>72736486</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>84</worldX>
+		<worldY>132</worldY>
+		<terrainX>84</terrainX>
+		<terrainY>16</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>56302648</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>85</worldX>
+		<worldY>132</worldY>
+		<terrainX>6</terrainX>
+		<terrainY>29</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>22662403</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>86</worldX>
+		<worldY>132</worldY>
+		<terrainX>19</terrainX>
+		<terrainY>12</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>42416950</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>87</worldX>
+		<worldY>132</worldY>
+		<terrainX>15</terrainX>
+		<terrainY>74</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>3513550</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>88</worldX>
+		<worldY>132</worldY>
+		<terrainX>74</terrainX>
+		<terrainY>91</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>33199244</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>89</worldX>
+		<worldY>132</worldY>
+		<terrainX>68</terrainX>
+		<terrainY>76</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>96985474</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>66</worldX>
+		<worldY>133</worldY>
+		<terrainX>32</terrainX>
+		<terrainY>57</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>72356277</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>67</worldX>
+		<worldY>133</worldY>
+		<terrainX>59</terrainX>
+		<terrainY>71</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>50073136</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>68</worldX>
+		<worldY>133</worldY>
+		<terrainX>24</terrainX>
+		<terrainY>56</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>80999981</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>69</worldX>
+		<worldY>133</worldY>
+		<terrainX>87</terrainX>
+		<terrainY>77</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>12482430</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>70</worldX>
+		<worldY>133</worldY>
+		<terrainX>43</terrainX>
+		<terrainY>84</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>73427661</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>71</worldX>
+		<worldY>133</worldY>
+		<terrainX>54</terrainX>
+		<terrainY>89</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>35790471</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>73</worldX>
+		<worldY>133</worldY>
+		<terrainX>77</terrainX>
+		<terrainY>27</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>39157835</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>74</worldX>
+		<worldY>133</worldY>
+		<terrainX>46</terrainX>
+		<terrainY>31</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>39252783</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>75</worldX>
+		<worldY>133</worldY>
+		<terrainX>21</terrainX>
+		<terrainY>87</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>64719858</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>76</worldX>
+		<worldY>133</worldY>
+		<terrainX>35</terrainX>
+		<terrainY>82</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>75023354</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_00</prefab>
+		<worldX>78</worldX>
+		<worldY>133</worldY>
+		<terrainX>88</terrainX>
+		<terrainY>85</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>44150452</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>79</worldX>
+		<worldY>133</worldY>
+		<terrainX>46</terrainX>
+		<terrainY>32</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>82677564</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>80</worldX>
+		<worldY>133</worldY>
+		<terrainX>89</terrainX>
+		<terrainY>25</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>64643066</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>81</worldX>
+		<worldY>133</worldY>
+		<terrainX>49</terrainX>
+		<terrainY>46</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>252035</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>82</worldX>
+		<worldY>133</worldY>
+		<terrainX>26</terrainX>
+		<terrainY>54</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>24957673</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>83</worldX>
+		<worldY>133</worldY>
+		<terrainX>65</terrainX>
+		<terrainY>4</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>35555198</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_04</prefab>
+		<worldX>84</worldX>
+		<worldY>133</worldY>
+		<terrainX>72</terrainX>
+		<terrainY>51</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>19848286</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>85</worldX>
+		<worldY>133</worldY>
+		<terrainX>59</terrainX>
+		<terrainY>27</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>97411917</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>86</worldX>
+		<worldY>133</worldY>
+		<terrainX>41</terrainX>
+		<terrainY>85</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>53724619</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_02</prefab>
+		<worldX>87</worldX>
+		<worldY>133</worldY>
+		<terrainX>42</terrainX>
+		<terrainY>12</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>62635809</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_01</prefab>
+		<worldX>88</worldX>
+		<worldY>133</worldY>
+		<terrainX>2</terrainX>
+		<terrainY>74</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Tulune Rocks</name>
+		<locationID>88094817</locationID>
+		<type>1</type>
+		<prefab>Wilderness_Highrock_03</prefab>
+		<worldX>89</worldX>
+		<worldY>133</worldY>
+		<terrainX>91</terrainX>
+		<terrainY>23</terrainY>
+	</locationInstance>
+</locations>

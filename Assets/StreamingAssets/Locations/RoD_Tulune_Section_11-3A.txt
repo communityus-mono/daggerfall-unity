@@ -1,0 +1,932 @@
+<locations>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>8839797</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>116</worldX>
+		<worldY>130</worldY>
+		<terrainX>69</terrainX>
+		<terrainY>81</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>70623128</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>117</worldX>
+		<worldY>130</worldY>
+		<terrainX>83</terrainX>
+		<terrainY>6</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>3733227</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>118</worldX>
+		<worldY>130</worldY>
+		<terrainX>22</terrainX>
+		<terrainY>22</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>3529906</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>119</worldX>
+		<worldY>130</worldY>
+		<terrainX>40</terrainX>
+		<terrainY>63</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>82206578</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>120</worldX>
+		<worldY>130</worldY>
+		<terrainX>19</terrainX>
+		<terrainY>49</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>64329636</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>121</worldX>
+		<worldY>130</worldY>
+		<terrainX>24</terrainX>
+		<terrainY>51</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>44580419</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>122</worldX>
+		<worldY>130</worldY>
+		<terrainX>7</terrainX>
+		<terrainY>11</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>1511942</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>123</worldX>
+		<worldY>130</worldY>
+		<terrainX>71</terrainX>
+		<terrainY>30</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>9553595</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>124</worldX>
+		<worldY>130</worldY>
+		<terrainX>12</terrainX>
+		<terrainY>21</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>24817397</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>125</worldX>
+		<worldY>130</worldY>
+		<terrainX>70</terrainX>
+		<terrainY>23</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>48088760</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>126</worldX>
+		<worldY>130</worldY>
+		<terrainX>51</terrainX>
+		<terrainY>46</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>99846985</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>127</worldX>
+		<worldY>130</worldY>
+		<terrainX>6</terrainX>
+		<terrainY>21</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>87061518</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>128</worldX>
+		<worldY>130</worldY>
+		<terrainX>57</terrainX>
+		<terrainY>84</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>66016245</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>129</worldX>
+		<worldY>130</worldY>
+		<terrainX>38</terrainX>
+		<terrainY>39</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>11936995</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>130</worldX>
+		<worldY>130</worldY>
+		<terrainX>83</terrainX>
+		<terrainY>71</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>10077408</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>131</worldX>
+		<worldY>130</worldY>
+		<terrainX>66</terrainX>
+		<terrainY>86</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>34167298</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>132</worldX>
+		<worldY>130</worldY>
+		<terrainX>72</terrainX>
+		<terrainY>57</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>24021319</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>133</worldX>
+		<worldY>130</worldY>
+		<terrainX>74</terrainX>
+		<terrainY>31</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>16117163</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>134</worldX>
+		<worldY>130</worldY>
+		<terrainX>6</terrainX>
+		<terrainY>37</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>63124437</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>135</worldX>
+		<worldY>130</worldY>
+		<terrainX>52</terrainX>
+		<terrainY>1</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>53794891</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>136</worldX>
+		<worldY>130</worldY>
+		<terrainX>4</terrainX>
+		<terrainY>56</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>39725919</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>137</worldX>
+		<worldY>130</worldY>
+		<terrainX>22</terrainX>
+		<terrainY>64</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>91460373</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>112</worldX>
+		<worldY>131</worldY>
+		<terrainX>5</terrainX>
+		<terrainY>38</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>49638697</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>113</worldX>
+		<worldY>131</worldY>
+		<terrainX>68</terrainX>
+		<terrainY>77</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>82663077</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>114</worldX>
+		<worldY>131</worldY>
+		<terrainX>28</terrainX>
+		<terrainY>17</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>68598130</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>115</worldX>
+		<worldY>131</worldY>
+		<terrainX>60</terrainX>
+		<terrainY>47</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>37201100</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>116</worldX>
+		<worldY>131</worldY>
+		<terrainX>3</terrainX>
+		<terrainY>4</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>67830021</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>117</worldX>
+		<worldY>131</worldY>
+		<terrainX>68</terrainX>
+		<terrainY>65</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>99725529</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>118</worldX>
+		<worldY>131</worldY>
+		<terrainX>76</terrainX>
+		<terrainY>85</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>68458487</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>119</worldX>
+		<worldY>131</worldY>
+		<terrainX>26</terrainX>
+		<terrainY>38</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>48032321</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>120</worldX>
+		<worldY>131</worldY>
+		<terrainX>24</terrainX>
+		<terrainY>55</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>95676836</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>121</worldX>
+		<worldY>131</worldY>
+		<terrainX>16</terrainX>
+		<terrainY>81</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>4101809</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>122</worldX>
+		<worldY>131</worldY>
+		<terrainX>5</terrainX>
+		<terrainY>62</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>50512284</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>123</worldX>
+		<worldY>131</worldY>
+		<terrainX>72</terrainX>
+		<terrainY>17</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>25775475</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>124</worldX>
+		<worldY>131</worldY>
+		<terrainX>7</terrainX>
+		<terrainY>78</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>73042575</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>125</worldX>
+		<worldY>131</worldY>
+		<terrainX>12</terrainX>
+		<terrainY>62</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>24665482</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>126</worldX>
+		<worldY>131</worldY>
+		<terrainX>28</terrainX>
+		<terrainY>20</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>81665303</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>127</worldX>
+		<worldY>131</worldY>
+		<terrainX>69</terrainX>
+		<terrainY>33</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>15353706</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>128</worldX>
+		<worldY>131</worldY>
+		<terrainX>26</terrainX>
+		<terrainY>79</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>41603506</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>129</worldX>
+		<worldY>131</worldY>
+		<terrainX>55</terrainX>
+		<terrainY>63</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>5610822</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>130</worldX>
+		<worldY>131</worldY>
+		<terrainX>39</terrainX>
+		<terrainY>73</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>846628</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>131</worldX>
+		<worldY>131</worldY>
+		<terrainX>25</terrainX>
+		<terrainY>54</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>21791502</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>132</worldX>
+		<worldY>131</worldY>
+		<terrainX>11</terrainX>
+		<terrainY>61</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>71951528</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>133</worldX>
+		<worldY>131</worldY>
+		<terrainX>67</terrainX>
+		<terrainY>41</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>86697271</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>134</worldX>
+		<worldY>131</worldY>
+		<terrainX>3</terrainX>
+		<terrainY>68</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>3333972</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>135</worldX>
+		<worldY>131</worldY>
+		<terrainX>16</terrainX>
+		<terrainY>61</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>71500958</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>136</worldX>
+		<worldY>131</worldY>
+		<terrainX>19</terrainX>
+		<terrainY>45</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>28460798</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>137</worldX>
+		<worldY>131</worldY>
+		<terrainX>65</terrainX>
+		<terrainY>52</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>6210990</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>112</worldX>
+		<worldY>132</worldY>
+		<terrainX>37</terrainX>
+		<terrainY>81</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>95847133</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>113</worldX>
+		<worldY>132</worldY>
+		<terrainX>69</terrainX>
+		<terrainY>40</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>86248248</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>114</worldX>
+		<worldY>132</worldY>
+		<terrainX>65</terrainX>
+		<terrainY>25</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>20716793</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>115</worldX>
+		<worldY>132</worldY>
+		<terrainX>29</terrainX>
+		<terrainY>48</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>19345316</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>116</worldX>
+		<worldY>132</worldY>
+		<terrainX>59</terrainX>
+		<terrainY>22</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>30726501</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>117</worldX>
+		<worldY>132</worldY>
+		<terrainX>27</terrainX>
+		<terrainY>61</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>78135933</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>118</worldX>
+		<worldY>132</worldY>
+		<terrainX>26</terrainX>
+		<terrainY>8</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>78125708</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>120</worldX>
+		<worldY>132</worldY>
+		<terrainX>20</terrainX>
+		<terrainY>85</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>82024308</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>121</worldX>
+		<worldY>132</worldY>
+		<terrainX>78</terrainX>
+		<terrainY>18</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>54926380</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>122</worldX>
+		<worldY>132</worldY>
+		<terrainX>45</terrainX>
+		<terrainY>50</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>87628570</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>123</worldX>
+		<worldY>132</worldY>
+		<terrainX>55</terrainX>
+		<terrainY>11</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>1908946</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>124</worldX>
+		<worldY>132</worldY>
+		<terrainX>62</terrainX>
+		<terrainY>67</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>73496619</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>125</worldX>
+		<worldY>132</worldY>
+		<terrainX>12</terrainX>
+		<terrainY>15</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>72466678</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>126</worldX>
+		<worldY>132</worldY>
+		<terrainX>56</terrainX>
+		<terrainY>91</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>66850434</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>127</worldX>
+		<worldY>132</worldY>
+		<terrainX>3</terrainX>
+		<terrainY>58</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>89182219</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>128</worldX>
+		<worldY>132</worldY>
+		<terrainX>27</terrainX>
+		<terrainY>86</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>93809620</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>130</worldX>
+		<worldY>132</worldY>
+		<terrainX>84</terrainX>
+		<terrainY>41</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>50357708</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>132</worldX>
+		<worldY>132</worldY>
+		<terrainX>6</terrainX>
+		<terrainY>19</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>54060524</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>133</worldX>
+		<worldY>132</worldY>
+		<terrainX>61</terrainX>
+		<terrainY>62</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>94058628</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>134</worldX>
+		<worldY>132</worldY>
+		<terrainX>28</terrainX>
+		<terrainY>14</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>62992581</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>135</worldX>
+		<worldY>132</worldY>
+		<terrainX>13</terrainX>
+		<terrainY>1</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>7013641</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>136</worldX>
+		<worldY>132</worldY>
+		<terrainX>25</terrainX>
+		<terrainY>1</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>35285858</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>137</worldX>
+		<worldY>132</worldY>
+		<terrainX>81</terrainX>
+		<terrainY>56</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>12089906</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>112</worldX>
+		<worldY>133</worldY>
+		<terrainX>85</terrainX>
+		<terrainY>49</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>73386961</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>114</worldX>
+		<worldY>133</worldY>
+		<terrainX>2</terrainX>
+		<terrainY>57</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>57094668</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>115</worldX>
+		<worldY>133</worldY>
+		<terrainX>50</terrainX>
+		<terrainY>34</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>7568809</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>116</worldX>
+		<worldY>133</worldY>
+		<terrainX>88</terrainX>
+		<terrainY>68</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>24878726</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>117</worldX>
+		<worldY>133</worldY>
+		<terrainX>81</terrainX>
+		<terrainY>19</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>92239457</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>118</worldX>
+		<worldY>133</worldY>
+		<terrainX>41</terrainX>
+		<terrainY>15</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>12023054</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>119</worldX>
+		<worldY>133</worldY>
+		<terrainX>54</terrainX>
+		<terrainY>34</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>2036838</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>120</worldX>
+		<worldY>133</worldY>
+		<terrainX>38</terrainX>
+		<terrainY>33</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>45347052</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>121</worldX>
+		<worldY>133</worldY>
+		<terrainX>62</terrainX>
+		<terrainY>55</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>79406665</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>122</worldX>
+		<worldY>133</worldY>
+		<terrainX>3</terrainX>
+		<terrainY>74</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>13924281</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>123</worldX>
+		<worldY>133</worldY>
+		<terrainX>11</terrainX>
+		<terrainY>64</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>58057748</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>124</worldX>
+		<worldY>133</worldY>
+		<terrainX>23</terrainX>
+		<terrainY>84</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>58148364</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>125</worldX>
+		<worldY>133</worldY>
+		<terrainX>67</terrainX>
+		<terrainY>10</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>96331587</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>127</worldX>
+		<worldY>133</worldY>
+		<terrainX>4</terrainX>
+		<terrainY>42</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>19718762</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>128</worldX>
+		<worldY>133</worldY>
+		<terrainX>82</terrainX>
+		<terrainY>61</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>24746578</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_00</prefab>
+		<worldX>129</worldX>
+		<worldY>133</worldY>
+		<terrainX>59</terrainX>
+		<terrainY>33</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>59252404</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>130</worldX>
+		<worldY>133</worldY>
+		<terrainX>65</terrainX>
+		<terrainY>36</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>35194762</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>131</worldX>
+		<worldY>133</worldY>
+		<terrainX>30</terrainX>
+		<terrainY>85</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>59002788</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_02</prefab>
+		<worldX>132</worldX>
+		<worldY>133</worldY>
+		<terrainX>80</terrainX>
+		<terrainY>20</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>2481178</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_04</prefab>
+		<worldX>134</worldX>
+		<worldY>133</worldY>
+		<terrainX>54</terrainX>
+		<terrainY>60</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>69831995</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_03</prefab>
+		<worldX>136</worldX>
+		<worldY>133</worldY>
+		<terrainX>55</terrainX>
+		<terrainY>31</terrainY>
+	</locationInstance>
+	<locationInstance>
+		<name>Betony Rocks</name>
+		<locationID>71892345</locationID>
+		<type>0</type>
+		<prefab>Wilderness_Mountain_01</prefab>
+		<worldX>137</worldX>
+		<worldY>133</worldY>
+		<terrainX>25</terrainX>
+		<terrainY>69</terrainY>
+	</locationInstance>
+</locations>

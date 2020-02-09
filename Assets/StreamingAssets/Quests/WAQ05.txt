@@ -1,0 +1,43 @@
+Quest: WAQ05
+DisplayName: Warm Ashes (Ruins Install)
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+<ce>           
+
+AcceptQuest:  [1002]
+<ce>           
+
+QuestFail:  [1003]
+<ce>                     
+
+QuestComplete:  [1004]
+<ce>                     
+
+Message:  1011
+<ce> Warm Ashes Version 3: Ruins
+<ce>
+<ce> The forgotten homes of loved ones becomes
+<ce> salvation for those who seek it.
+<ce>
+<ce> Do you want to enable Ruin Encounters?
+
+Message:  1012
+<ce> As the ruins crumble, life will come full circle. 
+
+QBN:
+
+--	Quest start-up:
+
+prompt 1011 yes _accept_ no _decline_
+
+_accept_ task:
+    say 1012
+    start quest WAQ_RUINS
+    end quest
+
+_decline_ task:
+    end quest

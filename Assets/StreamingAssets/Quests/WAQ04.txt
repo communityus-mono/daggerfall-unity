@@ -1,0 +1,43 @@
+Quest: WAQ04
+DisplayName: Warm Ashes (Labyrinth Install)
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+<ce>           
+
+AcceptQuest:  [1002]
+<ce>           
+
+QuestFail:  [1003]
+<ce>                     
+
+QuestComplete:  [1004]
+<ce>                     
+
+Message:  1011
+<ce> Warm Ashes Version 3: Labyrinth
+<ce>
+<ce> Creatures, Bandits and Necromancers will find new places
+<ce> to call home.
+<ce>
+<ce> Do you want to enable Labyrinth Encounters?
+
+Message:  1012
+<ce> From where darkness lurks, nature will soon overcome.
+
+QBN:
+
+--	Quest start-up:
+
+prompt 1011 yes _accept_ no _decline_
+
+_accept_ task:
+say 1012
+start quest WAQ_LABS
+end quest
+
+_decline_ task:
+end quest
